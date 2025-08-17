@@ -34,7 +34,7 @@ Example usage:
 ## 🖼️ Example Output
 (Your QR code will look like this if you test with `https://github.com`)
 
-![QR Code Example](qr_code/youtube_qr.png)
+![QR Code Example](youtube_qr.png)
 
 ---
 
